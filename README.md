@@ -7,7 +7,8 @@ It features:
 - An NRF24L01 radio transceiver
 - An OLED display
 - An IR receiver used to copy and relay signals across greater distancess
-
+Why is it called a Lobber?<br>
+I like how the word sounds and I couldn't think of anything else. Its also my favorite projectile shooter in the hit game Cuphead
 
 <img width="1235" height="857" alt="image" src="https://github.com/user-attachments/assets/613b7486-7f1b-4fc1-bb67-199a01df0c69" />
 
